@@ -120,11 +120,15 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 3h1) "Pillowed" puzzles are not permitted. Exception: Pillowed 7x7x7 cubes are permitted.
     - 3h2) "Stickerless" cubes, and other cubes whose face colours are visible inside the cube, are not permitted.
     - 3h3) Any modifications to a puzzle that result in poor performance by a competitor are not grounds for additional attempts.
+    - 3h4) "Custom Inserts" are allowed on a Clock, as long as they are approximately the same shape and size as the traditional paper inserts. 
 - 3j) Puzzles must be clean, and must not have any markings, elevated pieces, damage, or other differences that distinguish any piece from a similar piece.
     - 3j1) Puzzles are permitted to have reasonable wear, at the discretion of the WCA Delegate.
+    - 3j2) Definition: Two pieces are similar to each other if they are identical in shape and size, or mirrored in shape and identical in size.
+        - 3j2a) Exception: On each side of a Clock, clock face 1,3,7 and 9 are considered similar to each other, and clock face 2,4,6,8 are considered similar to each other, where the clock face number corresponds to a number on a standard number pad.
 - 3k) Puzzles must be approved by the WCA Delegate before use in the competition.
 - 3l) A cube puzzle may have a logo, but it must have at most one logo. For the Rubik's Cube or bigger cube puzzles the logo must be placed on one of the centre pieces.
     - 3l1) Colourless engravings (max. 1 per face) are not considered logos.
+    - 3l2) A Clock must have 0 logos, aside from any that are printed on the inserts.
 - 3m) All brands of puzzles and puzzle parts are permitted, as long as the puzzles comply with all WCA Regulations.
 
 
