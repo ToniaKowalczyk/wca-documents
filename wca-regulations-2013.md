@@ -346,13 +346,13 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - A3) Inspection:
     - A3a) The competitor may inspect the puzzle at the beginning of each attempt.
         - A3a1) The competitor is allotted a maximum of 15 seconds to inspect the puzzle and start the solve.
-    - A3b) Before the competitor starts the attempt, the judge resets the timer and, where applicable, the stopwatch.
+    - A3b) Before the competitor starts the attempt, the judge ensures that the timer is on and resets the timer if necessary and, where applicable, the stopwatch.
         - A3b1) When the judge believes the competitor is ready, he asks "READY?". The competitor must be ready to start the attempt within one minute of being called. Penalty: disqualification of the attempt (DNF), at the discretion of the judge.
         - A3b2) When the competitor confirms his readiness, the judge uncovers the puzzle. If the attempt requires a stopwatch, the judge starts it at the same time.
     - A3c) The competitor may pick up the puzzle during inspection.
         - A3c1) The competitor must not apply moves during inspection. Penalty: disqualification of the attempt (DNF).
         - A3c2) If the pieces of the puzzle are not fully aligned, then the competitor may align the faces, as long as misalignments stay within the limits of [Regulation 10f](regulations:regulation:10f).
-        - A3c3) The competitor may reset the timer before he starts the solve.
+        - A3c3) The competitor may turn the timer on, if it is not already, and reset the timer, if it is not already, before he starts the solve.
     - A3d) At the end of the inspection, the competitor places the puzzle on the mat, in any orientation and position.
         - A3d1) The puzzle must not rest on the timer. Penalty: time penalty (+2 seconds).
         - A3d2) When 8 seconds of inspection have elapsed, the judge calls "8 SECONDS".
