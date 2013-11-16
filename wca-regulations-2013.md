@@ -324,7 +324,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 12g3) Turn a wheel next to an up-position pin and move all pins down afterwards: x+ (x clockwise turns), x- (x anti-clockwise turns).
     - 12g4) Turn around the puzzle so that twelve is still on top, and then move all pins down: y2.
 - 12h) Notation for Skewb:
-    - 12h1) The puzzle is oriented with the center of the upper face flush with your shoulders.
+    - 12h1) The puzzle is oriented with three faces fully visible, where the upper face is on top.
     - 12h2) Clockwise, 120 degrees: R (the layer around the farthest visible bottom-right vertex), U (the layer around the farthest visible upper vertex), L (the layer around the farthest visible bottom-left vertex), B (the layer around the farthest non-visible back vertex).
     - 12h3) Anti-clockwise, 120 degrees: R' (the layer around the farthest visible bottom-right vertex), U' (the layer around the farthest visible upper vertex), L' (the layer around the farthest visible bottom-left vertex), B' (the layer around the farthest non-visible back vertex).
 
