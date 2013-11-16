@@ -138,7 +138,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 4d1) Cube puzzles and Megaminx are scrambled with the white face (if not possible, then the lightest face) on top and the green face (if not possible, then the darkest adjacent face) on the front.
     - 4d2) Pyraminx is scrambled with the yellow face (if not possible, then the lightest face) on bottom and the green face (if not possible, then the darkest adjacent face) on the front.
     - 4d3) Square-1 is scrambled with the darker colour on front (out of the 2 possible scrambling orientations).
-    - 4d4) Skewb is scrambled with the white face (if not possible, then the lightest face) on top and the green face (if not possible, then the darkest adjacent face) on the front-left.
+    - 4d4) Skewb is scrambled with the white face (if not possible, then the lightest face) on top and the green face (if not possible, then the darkest adjacent face) on the front-right.
 - 4f) Competition scramble sequences must be generated using the current official version of the official WCA scramble program (available via the WCA website).
 - 4g) After scrambling a puzzle, the scrambler must verify that he has scrambled the puzzle correctly. If the puzzle state is wrong, he must correct it (e.g. by solving the puzzle and applying the scramble sequence again).
     - 4g1) Exception: For the 6x6x6 Cube and the 7x7x7 Cube, it is not necessary to correct the scramble, at the discretion of the WCA Delegate.
@@ -324,7 +324,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 12g3) Turn a wheel next to an up-position pin and move all pins down afterwards: x+ (x clockwise turns), x- (x anti-clockwise turns).
     - 12g4) Turn around the puzzle so that twelve is still on top, and then move all pins down: y2.
 - 12h) Notation for Skewb:
-    - 12h1) The puzzle is oriented with the center of the top face flush with your shoulders.
+    - 12h1) The puzzle is oriented with the center of the upper face flush with your shoulders.
     - 12h2) Clockwise, 120 degrees: R (the layer around the farthest visible bottom-right vertex), U (the layer around the farthest visible upper vertex), L (the layer around the farthest visible bottom-left vertex), B (the layer around the farthest non-visible back vertex).
     - 12h3) Anti-clockwise, 120 degrees: R' (the layer around the farthest visible bottom-right vertex), U' (the layer around the farthest visible upper vertex), L' (the layer around the farthest visible bottom-left vertex), B' (the layer around the farthest non-visible back vertex).
 
