@@ -266,9 +266,8 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 10f) Limits of acceptable misalignment for puzzles:
     - 10f1) Cube-shaped puzzles: at most 45 degrees.
     - 10f2) Megaminx: at most 36 degrees.
-    - 10f3) Pyraminx: at most 60 degrees.
+    - 10f3) Pyraminx and Skewb: at most 60 degrees.
     - 10f4) Square-1: at most 45 degrees (U/D) or 90 degrees (/).
-    - 10f5) Skewb: at most 60 degrees.
 - 10h) Puzzles not specified in this article are judged according to the solved state as defined by the generally accepted goal of the puzzle, applying the relevant regulations for the Rubik's Cube.
 
 
